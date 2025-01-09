@@ -14,7 +14,7 @@
 <br>
 
 ## Portfólio
- ### https://www.maiko.engineer/
+ ### https://www.maikoduarte.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoDuarte&show_icons=true&theme=tokyonight)
 ## Tecnologias que eu estou utilizando
